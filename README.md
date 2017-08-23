@@ -1,1 +1,1 @@
-"Calcula se o sal†rio Ç maior que o sal†rio m°nimo C# Curso Programaá∆o de Dispositivos M¢veis SENAC " 
+"Calcula se o sal√°rio √© maior que o sal√°rio m¬°nimo C# Curso Programa√ß√£o de Dispositivos M√≥veis SENAC " 
